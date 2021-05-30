@@ -1,0 +1,17 @@
+{
+  "name": "modbus-to-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "akelan sivanesan (@speakers_off)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "modbus-serial": "^8.0.1",
+    "socker.io": "^0.0.0-alpha-beta",
+    "socket.io": "^4.1.2"
+  }
+}
